@@ -1,0 +1,16 @@
+.char1{
+  color: red;
+  font-size: 2em;
+}
+
+h1{
+  margin:1em;
+  margin: 0,5em;
+}
+
+h1 span{
+  padding: 1em;
+  margin: 0,5em;
+  box-shadow: 10px 10px 105px 53px
+  rgba(224, 2, 24, 1);
+}

@@ -1,0 +1,16 @@
+.char1{
+  color: pink;
+  font-size: 5em;
+}
+
+h1{
+  margin:1em;
+  margin: 0,9em;
+}
+
+h1 span{
+  padding: 2em;
+  margin: 0,5em;
+  box-shadow: 10px 10px 105px 53px
+  rgba(214, 2, 0, 1);
+}
