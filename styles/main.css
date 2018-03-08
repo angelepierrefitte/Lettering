@@ -1,16 +1,55 @@
-.char1{
-  color: red;
-  font-size: 2em;
-}
 
 h1{
   margin:1em;
-  margin: 0,5em;
+  margin: 2em;
 }
 
 h1 span{
   padding: 1em;
+  margin: 1em;
+  box-shadow: 10px 10px 10px 53px
+  rgba(100, 100, 100, 60);
+}
+
+.char1{
+  color: #cb4963;
+  font-size: 1em;
+}
+
+.char2{
+  color: #cb4963;
+  font-size: 1em;
+}
+
+.char3{
+  color: #cb4963;
+  font-size: 1em;
+}
+
+.char4{
+  color: #cb4963;
+  font-size: 1em;
+}
+
+.char5{
+  color: #cb4963;
+  font-size: 1em;
+}
+
+.char6{
+  color: #cb4963;
+  font-size: 1em;
+}
+
+
+h1{
+  margin:1em;
+  margin: 0,3em;
+}
+
+h1 span{
+  padding: 3em;
   margin: 0,5em;
   box-shadow: 10px 10px 105px 53px
-  rgba(224, 2, 24, 1);
+  rgba(100, 50, 100, 100);
 }
