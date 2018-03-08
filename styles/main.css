@@ -53,3 +53,7 @@ h1 span{
   box-shadow: 10px 10px 105px 53px
   rgba(100, 50, 100, 100);
 }
+.gallery {display: flex;
+justify-content: center;
+align-items: center;}
+img{width: 100px}
